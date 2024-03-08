@@ -1,4 +1,4 @@
-# Predicting Flight Prices using Gradient Boosting Regressor with features (airline, source city, departure time, stops, arrival time, destination city, class, duration, and days_left) using PySpark’s MLlib
+# Predicting Flight Prices using PySpark’s MLlib
 
 ## Notebook: 
 https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/5691159305297624/1572755136265826/841451422945549/latest.html
